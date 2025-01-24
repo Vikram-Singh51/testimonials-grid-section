@@ -11,5 +11,12 @@ Learnings:-
 Solution:-  So after googling I find out problem
              and gave ( height: auto; ) to all div in media query only.
 
-       
+Desktop Preview
+
+![Image](https://github.com/Vikram-Singh51/testimonials-grid-section/blob/3669046964df4fe92226810683095509a6f97f5a/images/Desktop_preview.png)
+
+Mobile Preview
+
+![Image](https://github.com/Vikram-Singh51/testimonials-grid-section/blob/3669046964df4fe92226810683095509a6f97f5a/images/Mobile_Preview.jpg)
+      
      
