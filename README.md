@@ -1,6 +1,6 @@
 # testimonials-grid-section
 
-Live Url :- 
+Live Url :- https://vikram-singh51.github.io/testimonials-grid-section/
 
 👉🏻 I create this project using Flexbox.
 Learnings:-
